@@ -1,0 +1,547 @@
+@media only screen and (max-width: 1920px) {
+  #intro-pics .container-intro-pics {
+    margin-left: 10%;
+  }
+  #intro-pics .container-intro-pics li {
+    margin: 0;
+  }
+
+  #eventos #events-mobile {
+    display: none;
+  }
+
+  #reservas {
+    height: 1400px;
+  }
+
+  footer {
+    height: 550px;
+  }
+}
+@media only screen and (max-width: 1680px) {
+  #reservas {
+    height: 1200px;
+  }
+
+  footer {
+    height: 450px;
+  }
+}
+@media only screen and (max-width: 1440px) {
+  footer {
+    height: auto;
+  }
+}
+@media only screen and (max-width: 1393px) {
+  #intro-pics .container-intro-pics .col.span-1-of-3 {
+    width: 30%;
+  }
+}
+@media only screen and (max-width: 1229px) {
+  #galeria .gallery-showcase img {
+    width: 98%;
+  }
+
+  #gallery2 .gallery-showcase img {
+    width: 98%;
+  }
+
+  footer #official-logo {
+    width: 68%;
+  }
+  footer .socialmedia-list {
+    margin: auto;
+  }
+  footer .socialmedia-list ion-icon {
+    font-size: 45px;
+  }
+  footer .contact-list {
+    margin: auto;
+  }
+  footer .contact-list li {
+    font-size: 15px;
+  }
+  footer .row:nth-of-type(2) p {
+    font-size: 14px;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 1089px) {
+  .main-nav li {
+    font-size: 15px;
+  }
+  .main-nav i {
+    font-size: 16px;
+  }
+
+  .vertical-nav ion-icon {
+    font-size: 25px;
+  }
+
+  .container-title {
+    font-size: 45px;
+  }
+
+  .container-welcome p {
+    font-size: 15px;
+  }
+  .container-welcome li {
+    font-size: 16px;
+  }
+
+  #galeria .gallery-showcase img {
+    width: 98%;
+  }
+
+  #eventos .container-eventos {
+    margin-left: 10%;
+    padding: 10px;
+  }
+  #eventos .container-eventos .events-list li {
+    font-size: 13px;
+  }
+  #eventos .container-eventos .box {
+    width: 25%;
+  }
+
+  #gallery2 .gallery-showcase img {
+    width: 98%;
+  }
+
+  #reservas .container-reservas form input {
+    width: 85%;
+  }
+  #reservas .container-reservas form textarea {
+    width: 95%;
+  }
+  #reservas .container-reservas form input[type=date] {
+    width: 45%;
+  }
+  #reservas .container-reservas form input[type=submit] {
+    width: 25%;
+  }
+
+  footer .col.span-1-of-3:first-of-type {
+    width: 25%;
+  }
+  footer #official-logo {
+    width: 75%;
+  }
+  footer .socialmedia-list ion-icon {
+    font-size: 48px;
+  }
+  footer .contact-list li {
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 1056px) {
+  #galeria .gallery-showcase img {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  #intro-pics .container-intro-pics {
+    margin-left: 19%;
+  }
+
+  #info .container-info {
+    margin-bottom: 6%;
+  }
+
+  #eventos .container-eventos {
+    margin-bottom: 6%;
+  }
+
+  #galeria .gallery-showcase {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  footer #official-logo {
+    width: 70%;
+    margin-top: 7%;
+  }
+  footer .socialmedia-list {
+    margin-left: 15%;
+  }
+  footer .socialmedia-list ion-icon {
+    font-size: 30px;
+  }
+  footer .contact-list {
+    margin-left: 15%;
+  }
+  footer .contact-list li {
+    font-size: 15px;
+  }
+  footer #map {
+    margin-top: 5%;
+    top: 13%;
+    left: 15%;
+  }
+  footer p {
+    text-align: center;
+  }
+}
+/*Tablets*/
+@media only screen and (max-width: 850px) {
+  .main-nav li {
+    font-size: 13px;
+  }
+  .main-nav i {
+    font-size: 16px;
+  }
+
+  .container-title {
+    font-size: 35px;
+    margin-top: 20%;
+  }
+
+  .container-welcome p {
+    font-size: 15px;
+  }
+  .container-welcome li {
+    font-size: 14px;
+  }
+
+  #intro-pics {
+    height: 100%;
+  }
+  #intro-pics .container-intro-pics {
+    margin-left: 19%;
+    margin-bottom: 15%;
+  }
+  #intro-pics .container-intro-pics li {
+    margin: 0;
+  }
+
+  #info .container-info {
+    margin-left: 8%;
+    padding-bottom: 50%;
+  }
+  #info .container-info .col.span-1-of-3 {
+    width: 27%;
+  }
+  #info .container-info .box {
+    width: 26%;
+  }
+
+  #galeria .gallery-showcase .col.span-1-of-4 {
+    width: 50%;
+  }
+  #galeria .gallery-showcase img {
+    width: 98%;
+  }
+
+  #eventos .container-eventos .col.span-1-of-4 {
+    width: 50%;
+  }
+
+  #gallery2 .gallery-showcase .col.span-1-of-4 {
+    width: 50%;
+  }
+  #gallery2 .gallery-showcase li:nth-of-type(7) {
+    display: none;
+  }
+  #gallery2 .gallery-showcase li:nth-of-type(8) {
+    display: none;
+  }
+  #gallery2 .gallery-showcase img {
+    width: 98%;
+  }
+
+  #plans {
+    height: 800px;
+  }
+  #plans .container-plans .row {
+    margin-left: 5%;
+  }
+  #plans .container-plans .col.span-1-of-4 {
+    width: 38%;
+  }
+  #plans .container-plans .box-plan li {
+    font-size: 13px;
+  }
+  #plans .container-plans .box-plan i {
+    font-size: 20px;
+  }
+
+  #reservas {
+    height: auto;
+    padding-bottom: 20%;
+  }
+  #reservas .container-reservas h2 {
+    text-align: center;
+  }
+  #reservas .container-reservas form {
+    font-size: 14px;
+  }
+  #reservas .container-reservas form input,
+#reservas .container-reservas form textarea,
+#reservas .container-reservas form select,
+#reservas .container-reservas form #pavillion-checkboxes,
+#reservas .container-reservas form #radio-buttons {
+    margin-left: 11%;
+  }
+  #reservas .container-reservas form input[type=submit] {
+    width: 14%;
+  }
+  #reservas .container-reservas form .col.span-1-of-2 {
+    width: 100%;
+  }
+
+  footer .col.span-1-of-3:first-of-type {
+    width: 30%;
+  }
+  footer .col.span-1-of-3:nth-of-type(2) {
+    width: 60%;
+  }
+  footer #official-logo {
+    width: 80%;
+    margin-top: 11%;
+  }
+  footer .row:first-of-type {
+    margin-left: 6%;
+  }
+  footer .socialmedia-list ion-icon {
+    font-size: 40px;
+  }
+  footer .contact-list li {
+    font-size: 15px;
+  }
+  footer .col.span-1-of-3 {
+    width: 70%;
+  }
+  footer #map {
+    width: 100%;
+    margin-top: 5%;
+  }
+  footer .row:nth-of-type(2) {
+    display: inline-block;
+    margin: 0 10% 0 30%;
+  }
+}
+@media only screen and (max-width: 779px) {
+  .main-nav li {
+    display: none;
+  }
+  .main-nav .icon {
+    display: block;
+    cursor: pointer;
+  }
+
+  .sticky li {
+    display: none;
+  }
+
+  .container-links {
+    margin-top: 11%;
+  }
+  .container-links ul li {
+    flex-direction: column;
+  }
+
+  .container-intro-pics {
+    margin-left: 12%;
+  }
+
+  #gallery2 .gallery-showcase .col.span-1-of-4 {
+    width: 50%;
+  }
+
+  #reservas .container-reservas form #pavillion-checkboxes {
+    margin-left: 11%;
+  }
+
+  footer .row:last-of-type {
+    display: inline-block;
+    margin: 0 10% 0 27%;
+  }
+}
+@media only screen and (max-width: 677px) {
+  .container-title {
+    font-size: 28px;
+  }
+
+  .container-welcome p {
+    font-size: 14px;
+  }
+  .container-welcome li {
+    font-size: 15px;
+  }
+
+  .container-links {
+    margin-top: 12%;
+  }
+
+  .vertical-nav ion-icon {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  #intro-pics .container-intro-pics {
+    margin-left: 12%;
+    margin-bottom: 12%;
+  }
+  #intro-pics .container-intro-pics li {
+    overflow: hidden;
+  }
+  #intro-pics .container-intro-pics .col.span-1-of-3 {
+    width: 80%;
+  }
+
+  h2 {
+    width: 100%;
+    display: inline-block;
+  }
+
+  #info .container-info {
+    margin-top: 2%;
+  }
+  #info .container-info .col.span-1-of-3 {
+    width: 85%;
+  }
+
+  #galeria .gallery-showcase .col.span-1-of-4 {
+    width: 100%;
+  }
+  #galeria .gallery-showcase img {
+    height: 95%;
+  }
+
+  #eventos .container-eventos {
+    display: none;
+  }
+  #eventos #events-mobile {
+    display: flex;
+  }
+
+  #drinks {
+    display: none;
+  }
+
+  #gallery2 .gallery-showcase .col.span-1-of-4 {
+    width: 100%;
+  }
+
+  #plans {
+    height: auto;
+  }
+  #plans .container-plans .row {
+    display: inline-block;
+  }
+  #plans .container-plans .row .col.span-1-of-4 {
+    width: 60%;
+  }
+  #plans .container-plans .row .box-plan {
+    margin-left: 11%;
+  }
+  #plans .container-plans .row .box-plan:nth-of-type(4) {
+    margin-bottom: 8%;
+  }
+
+  #reservas .container-reservas form input[type=submit] {
+    width: 20%;
+  }
+
+  footer .col.span-1-of-3:first-of-type {
+    width: 100%;
+  }
+  footer .col.span-1-of-3:nth-of-type(2) {
+    width: 100%;
+  }
+  footer #official-logo {
+    width: 50%;
+    margin-left: 20%;
+  }
+  footer .row:first-of-type {
+    margin-left: 6%;
+  }
+  footer .socialmedia-list ion-icon {
+    font-size: 40px;
+  }
+  footer .contact-list li {
+    font-size: 15px;
+  }
+  footer .col.span-1-of-3 {
+    width: 70%;
+  }
+  footer #map {
+    width: 100%;
+    margin-top: 5%;
+  }
+  footer .row:last-of-type {
+    padding: 20px;
+  }
+  footer .row:last-of-type p {
+    font-size: 14px;
+    text-align: center;
+  }
+}
+/*Smartphones etc*/
+@media only screen and (max-width: 456px) {
+  .container-welcome .col.span-1-of-2,
+.container-welcome .col.span-2-of-2 {
+    width: 100%;
+  }
+  .container-welcome p {
+    font-weight: 300;
+    padding: 3px;
+    line-height: 15px;
+  }
+
+  .container-links {
+    margin-top: 17%;
+  }
+
+  .container-intro-pics {
+    margin-bottom: 40px;
+  }
+  .container-intro-pics .col.span-1-of-3 {
+    width: 100%;
+  }
+
+  #info h2 {
+    padding-top: 18%;
+  }
+  #info .container-info .box {
+    margin-bottom: 12%;
+  }
+
+  #eventos .container-eventos {
+    margin: auto;
+  }
+  #eventos .container-eventos .col.span-1-of-4 {
+    width: 100%;
+  }
+  #eventos .container-eventos .box {
+    width: 100%;
+  }
+
+  #reservas .container-reservas {
+    margin: auto;
+    width: 100%;
+  }
+  #reservas .container-reservas form textarea {
+    width: 80%;
+  }
+
+  footer .socialmedia-list {
+    margin-left: 10%;
+  }
+  footer .socialmedia-list ion-icon {
+    font-size: 20px;
+  }
+  footer .contact-list li {
+    font-size: 13px;
+  }
+  footer .row:last-of-type {
+    padding: 20px;
+  }
+  footer .row:last-of-type p {
+    font-size: 12px;
+    text-align: center;
+  }
+}
+
+/*# sourceMappingURL=queries.css.map */
